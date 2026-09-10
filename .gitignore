@@ -11,7 +11,7 @@ ENV/
 # Arquivos temporários do Excel/Office
 ~$*.xlsx
 ~$*.xls
-*.csv
+
 
 # IDEs
 .vscode/
