@@ -14,7 +14,9 @@ ENV/
 # Arquivos de dados gerados
 *.csv
 
-# IDEs
+# IDEs e Ferramentas de IA
 .vscode/
 .idea/
 *.swp
+.agents/
+.agents
