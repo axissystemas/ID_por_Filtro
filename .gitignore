@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Arquivos temporários do Excel/Office
+~$*.xlsx
+~$*.xls
+*.csv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
